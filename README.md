@@ -133,8 +133,19 @@ print(query_result)
 ```
 ---
 ## Output:
+```
+Bayesian Network Structure
+DiscreteBayesianNetwork with 5 nodes and 4 edges
+```
+<img width="700" height="523" alt="image" src="https://github.com/user-attachments/assets/79184a5d-19bb-4ddd-b712-31c46c45ff7e" />
 
-
+```
+Approximate probabilities of Burglary:
+Burglary
+0    0.9992
+1    0.0008
+Name: proportion, dtype: float64
+```
 ---
 
 ## Result:
