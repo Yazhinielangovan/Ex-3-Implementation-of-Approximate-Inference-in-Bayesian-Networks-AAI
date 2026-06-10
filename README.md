@@ -1,9 +1,7 @@
-<H3 ALIGN=RIGHT> DATE:<H3>
 
 <H1 ALIGN=CENTER> Experiment-3: Implementation of Approximate Inference in Bayesian Networks </H1>
 
-### Name: 
-### Register Number:
+
 
 ## Aim: 
    To construct a python program to implement approximate inference using Gibbs Sampling.
